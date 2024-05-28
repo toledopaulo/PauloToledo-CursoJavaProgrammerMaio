@@ -1,4 +1,4 @@
-package cadastroAtleta;
+package cadastroVeiculo;
 import java.util.Scanner;
 import entidade.Atleta;
 
