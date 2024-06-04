@@ -1,0 +1,3 @@
+O nome da cobra é: paulo afonso cobra
+O CAF da cobra é: 1345
+O tipo do veneno é: vermelho3

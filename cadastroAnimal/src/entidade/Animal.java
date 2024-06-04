@@ -4,7 +4,7 @@ public abstract class Animal {
 
     private String Nome;
     private String Idade;
-    private String preco;
+    private double preco;
     private String Peso;
 
     public String getNome() {
@@ -20,10 +20,11 @@ public abstract class Animal {
         Idade = idade;
     }
     public String getPreco() {
-        return preco;
+        String novoPreco  = Double.parseDouble(preco);
+        return novoPreco;
     }
     public void setPreco(String preco) {
-        this.preco = preco;
+        this.preco = Double.parseDouble(preco);
     }
     public String getPeso() {
         return Peso;
