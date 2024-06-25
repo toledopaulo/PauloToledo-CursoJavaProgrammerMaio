@@ -7,6 +7,7 @@
       <module fileurl="file://$PROJECT_DIR$/cadastroAnimal/cadastroAnimal.iml" filepath="$PROJECT_DIR$/cadastroAnimal/cadastroAnimal.iml" />
       <module fileurl="file://$PROJECT_DIR$/cadastroVeiculo/cadastroVeiculo.iml" filepath="$PROJECT_DIR$/cadastroVeiculo/cadastroVeiculo.iml" />
       <module fileurl="file://$PROJECT_DIR$/projetoAnimal/projetoAnimal.iml" filepath="$PROJECT_DIR$/projetoAnimal/projetoAnimal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/projetoFinalCorrentista/projetoFinalCorrentista.iml" filepath="$PROJECT_DIR$/projetoFinalCorrentista/projetoFinalCorrentista.iml" />
     </modules>
   </component>
 </project>
